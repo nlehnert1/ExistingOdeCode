@@ -4,7 +4,7 @@ global CF0;
 global Event0;
 global PVID0;
 global PM0;
-
+% I'm writing a comment on this line
 
 alpha = 5;
 Event(1) = 1.0;
