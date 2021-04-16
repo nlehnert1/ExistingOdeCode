@@ -11,7 +11,7 @@ alpha = 5;
 Event(1) = 1.0;
 k = 4;
 PM = 5;
-
+%comment goes here
 CF = vars(1);
 SC = vars(2);
 PR = vars(3);
